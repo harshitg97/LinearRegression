@@ -1,1 +1,2 @@
 # LinearRegression
+Visualization,EDA,ModelBuilding
